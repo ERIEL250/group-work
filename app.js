@@ -1,3 +1,5 @@
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5574536932064178"
+     crossorigin="anonymous"></script>
 const nodemailer=require("nodemailer")
 const env=require("dotenv").config()
 const path = require('path');
